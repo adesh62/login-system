@@ -1,5 +1,5 @@
 # login-system
-console application of login system with cpp and mysql by devops
+console application of login system with cpp and mysql by Dev-cpp
 
 "libmysql.dill" is a file that present in "lib" folder of MYSQL (MySQL\MySQL Server 8.0\lib)
 
