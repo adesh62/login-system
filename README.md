@@ -15,4 +15,14 @@ Dev-cpp cpp MYSQL
     3) select project option - Parameters - linker
         add "-lmysql"
 # step 2:
-    
+    create database with name "SCHOOL"
+    and table with name "login"
+    __________________________
+    | username  | password   |
+    --------------------------
+    | henry     | hen@3h     |
+    --------------------------
+# step 3:
+    open "logincpp.dev" in Dev-cpp
+# step 4:
+    run "main.cpp" 
